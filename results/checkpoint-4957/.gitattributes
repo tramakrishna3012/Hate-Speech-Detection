@@ -1,0 +1,11 @@
+optimizer.pt.part4 filter=lfs diff=lfs merge=lfs -text
+optimizer.pt.part0 filter=lfs diff=lfs merge=lfs -text
+optimizer.pt.part1 filter=lfs diff=lfs merge=lfs -text
+optimizer.pt.part3 filter=lfs diff=lfs merge=lfs -text
+optimizer.pt.part2 filter=lfs diff=lfs merge=lfs -text
+model.safetensors filter=lfs diff=lfs merge=lfs -text
+optimizer.pt filter=lfs diff=lfs merge=lfs -text
+model.safetensors.part1 filter=lfs diff=lfs merge=lfs -text
+model.safetensors.part2 filter=lfs diff=lfs merge=lfs -text
+model.safetensors.part0 filter=lfs diff=lfs merge=lfs -text
+model.safetensors.part5 filter=lfs diff=lfs merge=lfs -text
